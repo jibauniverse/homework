@@ -7,5 +7,5 @@ resource "aws_subnet" "subnet" {
     tags ={
         Name = var.subnet_tag
     }
-    
 }
+
